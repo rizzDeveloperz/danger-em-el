@@ -1,5 +1,5 @@
 {
-  "name": "rizz's GPT v1.0.0",
+  "name": "rizz's GPT Full Version",
   "version": "1.0.0",
   "description": "Telegram AI Bot with Rizz Style",
   "main": "index.js",
@@ -10,4 +10,5 @@
     "telegraf": "^4.16.3",
     "@google/generative-ai": "^0.21.0"
   }
+
 }
